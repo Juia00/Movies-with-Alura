@@ -41,4 +41,4 @@ Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum b
 **Divirta-se explorando o mundo do cinema com o Movie Mania!**
 
 **Observações:**
-
+Projeto realizado como aprendizado pela Alura em parceria com Gemini
