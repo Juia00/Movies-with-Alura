@@ -1,7 +1,7 @@
 let dados=[
     {
         titulo : "Carol",
-        imagem: "R.jpg",
+        imagem: "Imagens/R.jpg",
         descricao : "Carol is a 2015 American historical drama romance film directed by Todd Haynes. The screenplay by Phyllis Nagy is based on the 1952 romance novel The Price of Salt by Patricia Highsmith (republished as Carol in 1990). The film stars Cate Blanchett, Rooney Mara, Sarah Paulson, Jake Lacy, and Kyle Chandler. If you're interested in a beautifully crafted, poignant exploration of love, loss, and societal expectations, Carol is definitely worth watching.",
         link: 'https://www.imdb.com/title/tt2402927/',
     
