@@ -20,7 +20,7 @@ Desenvolver este projeto foi uma ótima oportunidade para aprimorar minhas habil
 * **HTML:** A estrutura básica da página web.
 * **CSS:** Responsável por deixar a interface do aplicativo mais bonita e intuitiva.
 
-**Acesse o Site https://movies-with-alura.vercel.app/**
+**Acesse o Site https://movies-with-alura.vercel.app//**
 
 **Como usar:**
 
