@@ -13,7 +13,7 @@ let dados=[
       }, 
       {
         titulo: "The Dark Knight",
-        imagem: "imagens/R (6).jpg",
+        imagem: "Imagens/R (6).jpg",
         descricao: "The Dark Knight is a 2008 superhero film directed by Christopher Nolan, from a screenplay co-written with his brother Jonathan. Based on the DC Comics superhero Batman, it is the sequel to Batman Begins (2005), and the second installment in The Dark Knight trilogy. The plot follows the vigilante Batman, police lieutenant James Gordon, and district attorney Harvey Dent, who form an alliance to dismantle organized crime in Gotham City. Their efforts are derailed by the Joker, an anarchistic mastermind who seeks to test how far Batman will go to save the city from chaos. ",
         link: "https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3",
       }, 
