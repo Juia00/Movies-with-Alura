@@ -1,5 +1,4 @@
 let dados=[
-    
       {
         titulo: "The Shawshank Redemption",
         imagem: "Imagens/R (4).jpg",
