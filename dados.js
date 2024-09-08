@@ -1,23 +1,5 @@
 let dados=[
-    {
-        titulo : "Carol",
-        imagem: "Imagens/R.jpg",
-        descricao : "Carol is a 2015 American historical drama romance film directed by Todd Haynes. The screenplay by Phyllis Nagy is based on the 1952 romance novel The Price of Salt by Patricia Highsmith (republished as Carol in 1990). The film stars Cate Blanchett, Rooney Mara, Sarah Paulson, Jake Lacy, and Kyle Chandler. If you're interested in a beautifully crafted, poignant exploration of love, loss, and societal expectations, Carol is definitely worth watching.",
-        link: 'https://www.imdb.com/title/tt2402927/',
     
-    },
-    {
-        titulo: "Happiest Season",
-        imagem: "Imagens/R (2).jpg",
-        descricao: "Happiest Season is a 2020 American Christmas romantic comedy film directed by Clea DuVall. The film stars Kristen Stewart, Mackenzie Davis, Alison Brie, Aubrey Plaza, Dan Levy, Mary Steenburgen, and Victor Garber. The story follows a young woman named Abby who plans to propose to her girlfriend Harper during a family Christmas visit, only to discover that Harper hasn't come out to her conservative family.",
-        link: "https://www.imdb.com/title/tt8522006/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_happinest%2520seaso",
-      }, 
-      {
-        titulo: "Crush",
-        imagem: "Imagens/R (3).jpg",
-        descricao: "Crush is a 2022 American coming-of-age romantic comedy film directed by Sammi Cohen (in her feature directorial debut) and written by Kirsten King and Casey Rackham. The film stars Rowan Blanchard and Auli´i Cravalho in a story about a teenage girl joining her high-school track team to get closer to her crush, only to find herself falling in love with her crush's twin sister. Crush was released digitally on April 29, 2022, on Hulu.",
-        link: "https://www.imdb.com/title/tt15096128/",
-      }, 
       {
         titulo: "The Shawshank Redemption",
         imagem: "Imagens/R (4).jpg",
